@@ -8,7 +8,7 @@ from Railways_telegramBot import db
 from parse import rail_parse
 from aiogram import Bot, Dispatcher, executor, types
 
-API_TOKEN = '1178568039:AAFyfE-FN2lx4Rq5ty2-rZuRTkAkjyfk7ZQ'
+API_TOKEN = ''
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
